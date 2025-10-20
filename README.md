@@ -46,7 +46,7 @@ We mainly tested MorphCut on Linux and MacOS:
 - Linux-based High performance facilities
 
 ## 📊 Results & Performance
-We selected 24 test buildings from the three public building datasets: City3D, 3DBIT00, and NYC3D. The selection was based on the representativeness of building morphology, covering diverse styles and levels of shape complexity. The samples range from simple, small houses to highly complex, iconic buildings. Results by MorphCut at different LoDs are presented in the following image. ($\bullet$, $\bullet$) indicate the number of decomposed parts and the average convexity, respectively.
+We selected 24 test buildings from the three public building datasets: City3D (Delft), 3DBIT00 (Hong Kong), and NYC3D (New York City). The selection was based on the representativeness of building morphology, covering diverse styles and levels of shape complexity. The samples range from simple, small houses to highly complex, iconic buildings. Results by MorphCut at different LoDs are presented in the following image. ($\bullet$, $\bullet$) indicate the number of decomposed parts and the average convexity, respectively.
 
 ![alt text](img/figure6.png)
 
