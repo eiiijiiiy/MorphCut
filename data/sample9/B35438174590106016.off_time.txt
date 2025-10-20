@@ -1,0 +1,3 @@
+preparation: 0.0791183 s
+reconstruction: 1.79486 s
+Decomposition: 1.19468 s

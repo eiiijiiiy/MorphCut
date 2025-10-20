@@ -1,0 +1,20 @@
+	 vol = 10032.1 r=255 g=0 b=0
+	 vol = 6744.24 r=255 g=139 b=0
+	 vol = 9087.99 r=231 g=255 b=0
+	 vol = 9637.35 r=92 g=255 b=0
+	 vol = 10442.8 r=0 g=255 b=46
+	 vol = 13975.6 r=0 g=255 b=185
+	 vol = 11498.5 r=0 g=185 b=255
+	 vol = 14166 r=0 g=46 b=255
+	 vol = 5575.69 r=92 g=0 b=255
+	 vol = 15818 r=231 g=0 b=255
+	 vol = 1376.21 r=255 g=0 b=139
+sigma=2
+cost=1.70593(g=1.39407 h=0.155928)
+num comps=11, max possible comps=25
+delta_ch=3277.93, reduced_delta_ch=68092.8, initial_delta_ch=71370.7
+remaining_cc_edges=11
+max_volume=15818 sum_volume=108355
+get_ratio_comp_degree_2_stable=0.170278
+get_ratio_comp_more_than_degree_2_stable=0.884525
+max_degree=5 num_end_comps=1

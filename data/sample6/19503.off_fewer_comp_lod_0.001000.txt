@@ -1,0 +1,66 @@
+	 vol = 824.069 r=255 g=0 b=0
+	 vol = 3610.3 r=255 g=26 b=0
+	 vol = 13.7736 r=255 g=53 b=0
+	 vol = 24.2795 r=255 g=80 b=0
+	 vol = 2452.75 r=255 g=107 b=0
+	 vol = 20.6631 r=255 g=134 b=0
+	 vol = 3614.36 r=255 g=161 b=0
+	 vol = 12.7772 r=255 g=187 b=0
+	 vol = 76.4881 r=255 g=214 b=0
+	 vol = 25.4309 r=255 g=241 b=0
+	 vol = 44.5919 r=241 g=255 b=0
+	 vol = 2779.84 r=214 g=255 b=0
+	 vol = 80.9014 r=187 g=255 b=0
+	 vol = 66.9913 r=161 g=255 b=0
+	 vol = 36.7581 r=134 g=255 b=0
+	 vol = 50.8193 r=107 g=255 b=0
+	 vol = 22.0563 r=80 g=255 b=0
+	 vol = 25.7846 r=53 g=255 b=0
+	 vol = 31.3777 r=26 g=255 b=0
+	 vol = 25.4487 r=0 g=255 b=0
+	 vol = 43.33 r=0 g=255 b=26
+	 vol = 27.9472 r=0 g=255 b=53
+	 vol = 32.1615 r=0 g=255 b=80
+	 vol = 18.646 r=0 g=255 b=107
+	 vol = 44.8485 r=0 g=255 b=134
+	 vol = 4.45705 r=0 g=255 b=161
+	 vol = 45.0624 r=0 g=255 b=187
+	 vol = 27.8896 r=0 g=255 b=214
+	 vol = 43.491 r=0 g=255 b=241
+	 vol = 27.6733 r=0 g=241 b=255
+	 vol = 31.0773 r=0 g=214 b=255
+	 vol = 3.16525 r=0 g=187 b=255
+	 vol = 30.9468 r=0 g=161 b=255
+	 vol = 32.0996 r=0 g=134 b=255
+	 vol = 27.5867 r=0 g=107 b=255
+	 vol = 12.1328 r=0 g=80 b=255
+	 vol = 38.5089 r=0 g=53 b=255
+	 vol = 43.4229 r=0 g=26 b=255
+	 vol = 138.037 r=0 g=0 b=255
+	 vol = 16.9618 r=26 g=0 b=255
+	 vol = 33.9546 r=53 g=0 b=255
+	 vol = 31.1167 r=80 g=0 b=255
+	 vol = 33.9546 r=107 g=0 b=255
+	 vol = 36.7319 r=134 g=0 b=255
+	 vol = 9.01854 r=161 g=0 b=255
+	 vol = 106.489 r=187 g=0 b=255
+	 vol = 11.1393 r=214 g=0 b=255
+	 vol = 4.35611 r=241 g=0 b=255
+	 vol = 7.63704 r=255 g=0 b=241
+	 vol = 9.39797 r=255 g=0 b=214
+	 vol = 8.68389 r=255 g=0 b=187
+	 vol = 3.40408 r=255 g=0 b=161
+	 vol = 12.0456 r=255 g=0 b=134
+	 vol = 4.06741 r=255 g=0 b=107
+	 vol = 9.04498 r=255 g=0 b=80
+	 vol = 4.52501 r=255 g=0 b=53
+	 vol = 2.89778 r=255 g=0 b=26
+sigma=2
+cost=1.55824(g=1.44176 h=0.0582372)
+num comps=57, max possible comps=128
+delta_ch=98.2355, reduced_delta_ch=27576.5, initial_delta_ch=27674.7
+remaining_cc_edges=28
+max_volume=3614.36 sum_volume=14857.4
+get_ratio_comp_degree_2_stable=0.0530046
+get_ratio_comp_more_than_degree_2_stable=9.65169
+max_degree=14 num_end_comps=9

@@ -1,0 +1,14 @@
+origional_center:(834373,815736,97.223)
+planar_region=141
+max_distance=1, max_angle=10, min_region=1
+angle_thresh=10, dist_thresh=1
+cell_size=2, concave_thresh=1
+min_points=100, max_points=10000
+sigma=2, max_children=-1, same_vol_factor=1e-05
+lod_threshs=0.1 0.01 0.001 0.0001 1e-05 
+Fewer_comp=1, weight=1
+Max_vol=0, weight=1
+Symmetry=0, weight=1
+Central=0, weight=1
+Decentral=0, weight=1
+num_cc_edges=97, num_cuts=80

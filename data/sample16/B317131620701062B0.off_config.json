@@ -1,0 +1,16 @@
+{
+    "max_distance": 0.5,
+    "max_angle": 10,
+    "min_region": 1,
+    "angle_thresh": 10,
+    "dist_thresh": 0.5,
+    "cell_size": 1.0,
+    "concave_thresh": 1.0,
+    "min_points": 10000,
+    "max_points": 10000,
+    "sigma": 2.0,
+    "min_cut_factor": [0.1, 0.01, 0.001, 0.0001, 0.00001],
+    "max_children": -1,
+    "same_vol_factor": 0.00001,
+    "fewer_comp": true
+}

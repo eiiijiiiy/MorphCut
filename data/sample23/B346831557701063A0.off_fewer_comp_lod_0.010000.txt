@@ -1,0 +1,13 @@
+	 vol = 92764.3 r=255 g=0 b=0
+	 vol = 131515 r=127 g=255 b=0
+	 vol = 199311 r=0 g=255 b=255
+	 vol = 59998.2 r=127 g=0 b=255
+sigma=2
+cost=1.74737(g=0.752632 h=0.497368)
+num comps=4, max possible comps=164
+delta_ch=78510.5, reduced_delta_ch=210388, initial_delta_ch=288898
+remaining_cc_edges=148
+max_volume=199311 sum_volume=483589
+get_ratio_comp_degree_2_stable=1
+get_ratio_comp_more_than_degree_2_stable=0
+max_degree=2 num_end_comps=0

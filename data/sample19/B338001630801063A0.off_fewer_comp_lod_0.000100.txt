@@ -1,0 +1,38 @@
+	 vol = 259515 r=255 g=0 b=0
+	 vol = 3287.16 r=255 g=52 b=0
+	 vol = 17892.6 r=255 g=105 b=0
+	 vol = 1450.71 r=255 g=158 b=0
+	 vol = 606.395 r=255 g=211 b=0
+	 vol = 6915.28 r=246 g=255 b=0
+	 vol = 6.71348 r=193 g=255 b=0
+	 vol = 1434.83 r=140 g=255 b=0
+	 vol = 721.543 r=87 g=255 b=0
+	 vol = 641.417 r=35 g=255 b=0
+	 vol = 23319.4 r=0 g=255 b=17
+	 vol = 161.062 r=0 g=255 b=70
+	 vol = 186.467 r=0 g=255 b=123
+	 vol = 1390.25 r=0 g=255 b=175
+	 vol = 300.215 r=0 g=255 b=228
+	 vol = 378.863 r=0 g=228 b=255
+	 vol = 443.451 r=0 g=175 b=255
+	 vol = 440.322 r=0 g=123 b=255
+	 vol = 587.889 r=0 g=70 b=255
+	 vol = 322.713 r=0 g=17 b=255
+	 vol = 768.979 r=35 g=0 b=255
+	 vol = 25.4911 r=87 g=0 b=255
+	 vol = 293.071 r=140 g=0 b=255
+	 vol = 3444.52 r=193 g=0 b=255
+	 vol = 15.5537 r=246 g=0 b=255
+	 vol = 259.252 r=255 g=0 b=211
+	 vol = 242.604 r=255 g=0 b=158
+	 vol = 1317.59 r=255 g=0 b=105
+	 vol = 244.403 r=255 g=0 b=52
+sigma=2
+cost=1.29278(g=1.23688 h=0.0279478)
+num comps=29, max possible comps=118
+delta_ch=64.3731, reduced_delta_ch=7184.88, initial_delta_ch=7249.25
+remaining_cc_edges=9
+max_volume=259515 sum_volume=326614
+get_ratio_comp_degree_2_stable=0.000125668
+get_ratio_comp_more_than_degree_2_stable=9.61173
+max_degree=14 num_end_comps=0

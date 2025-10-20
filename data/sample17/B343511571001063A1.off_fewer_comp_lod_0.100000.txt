@@ -1,0 +1,11 @@
+	 vol = 38093.5 r=255 g=0 b=0
+	 vol = 165120 r=0 g=255 b=255
+sigma=2
+cost=2.15066(g=0.367199 h=0.89173)
+num comps=2, max possible comps=140
+delta_ch=101526, reduced_delta_ch=55371.3, initial_delta_ch=156898
+remaining_cc_edges=137
+max_volume=165120 sum_volume=203213
+get_ratio_comp_degree_2_stable=0
+get_ratio_comp_more_than_degree_2_stable=0
+max_degree=1 num_end_comps=2
