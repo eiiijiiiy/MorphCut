@@ -63,10 +63,10 @@ In the large-scale tests on the building models from Delft and Hong Kong (over 3
 - 13 hours total runtime, about 3 hours faster than alternatives
 - 0.25 m average deviation in geometric fidelity
 
-## Limitations
+## 🚧 Limitations
 Our method has several limitations, including the need for manual resolution tuning for optimal preprocessing, occasional sub-optimal results due to acceleration (Figure E.2), cutting or classification errors (Figure E.3), limited robustness to severe topological defects and non-manifold geometry (Figure E.4), long processing time for complex iconic buildings, and the lack of semantic or appearance-based reasoning. Visual details are provided in Appendix E. 
 
-## Citation
+## 🙏 Citation
 ```bib
 @article{wu2025morphcut,
   title={MorphCut: an efficient convex decomposition method of 3D building models for urban morphological analytics},
