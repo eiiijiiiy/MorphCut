@@ -14,12 +14,12 @@ Through this work, we aim to contribute a practical and scalable tool that suppo
 
 ## 💻 Usage
 ### Step 1 - Install dependencies
-- CGAL (ver 6.0) (Use the modified version in the uploaded cgal.zip)
+- [CGAL](https://github.com/CGAL/cgal) (ver 6.0) (Use the modified version in the ``cgal`` folder)
 - Qt6 (For visualization in runtime)
-- Eigen
-- RapidJSON
-- NLopt
-- SDF (Use the modified version in the uploaded sdf.zip)
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)(ver 3.4.0)
+- [RapidJSON](https://github.com/Tencent/rapidjson)
+- [NLopt](https://github.com/stevengj/nlopt?tab=readme-ov-file)
+- [SDF](https://github.com/sxyu/sdf) (Use the modified version in the ``sdf`` folder)
 - OpenMP
 ### Step2 - Build from source
 type the commands in the terminal:
